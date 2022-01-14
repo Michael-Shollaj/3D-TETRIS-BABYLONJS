@@ -15,15 +15,15 @@ Clik at "File" in the left corner, then you will see "Open folder" click at it a
 
 Now we have to install BabylonJs with Npm at terminal of VSC
 
-npm install babylonjs --save 
+"npm install babylonjs --save" 
 This code will install BabylonJS in VSC
 
-npm install --save babylonjs babylonjs-materials
+"npm install --save babylonjs babylonjs-materials"
 This code will install materials of babylonjs
 
 And finally
 
-npm install --save babylonjs babylonjs-gui
+"npm install --save babylonjs babylonjs-gui"
 This code will install Gui of Babylonjs
 
 Now this project will run without any errors
