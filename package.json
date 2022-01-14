@@ -1,0 +1,35 @@
+{
+    "name": "babylonjs101",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "@babylonjs/gui": "^4.2.1",
+        "@babylonjs/materials": "^4.2.1",
+        "@types/react": "^17.0.38",
+        "@types/react-dom": "^17.0.11",
+        "babylonjs": "^4.2.1",
+        "babylonjs-gui": "^4.2.1",
+        "babylonjs-materials": "^4.2.1",
+        "gulp": "^4.0.2",
+        "gulp-webserver": "^0.9.1",
+        "npm-font-open-sans": "^1.1.0"
+    },
+    "devDependencies": {
+        "@babylonjs/core": "^4.2.1",
+        "@babylonjs/inspector": "^4.2.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/deltakosh/babylonjs101.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/deltakosh/babylonjs101/issues"
+    },
+    "homepage": "https://github.com/deltakosh/babylonjs101#readme"
+}

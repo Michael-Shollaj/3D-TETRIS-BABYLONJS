@@ -1,0 +1,20 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+      "noResolve": true,
+      "target": "es5",
+      "declaration": false,
+      "experimentalDecorators": true,
+      "isolatedModules": false,
+      "sourceMap": true,
+      "types": [
+        "babylonjs",
+        "babylonjs-Gui",
+        "babylonjs-Materials"
+      ],
+      "lib": [
+          "dom",
+          "es5"
+      ]
+    }
+  }
