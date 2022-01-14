@@ -30,9 +30,9 @@ Now this project will run without any errors
 
 ## How to Play it
 
-Rotate camera with "Mouse" or "Arrows"
-With "Space" make the block fall faster
-Rotate the blocks with "Z", "X", "C"
+Rotate camera with "Mouse" or "Arrows",
+With "Space" make the block fall faster,
+Rotate the blocks with "Z", "X", "C",
 Move the blocks with "A"S"D"W"
 
 ## NOTE
